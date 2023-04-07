@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TaskApp</string>
+    <string name="pesquisa"><font color ="#FA1100">Pesquisar tarefas</font></string>
+</resources>
